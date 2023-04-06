@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Project
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 101
+  controlID: 63
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 102
+  controlID: 125
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -249,7 +249,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 103
+  controlID: 126
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -350,22 +350,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Settings
+    - Assets/Scenes/Create-with-VR-Starter-Scene
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Settings
+  - Assets/Scenes/Create-with-VR-Starter-Scene
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\usuario\Documents\GitHub\vr-individual-project
+  m_LastProjectPath: C:\Users\Conan\Documents\GitHub\vr-individual-project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 2}
-    m_SelectedIDs: 30000100
-    m_LastClickedID: 65584
-    m_ExpandedIDs: 0000000024000100260001005200010000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 338}
+    m_SelectedIDs: b6790000
+    m_LastClickedID: 31158
+    m_ExpandedIDs: 00000000ae780000b0780000b2780000b8780000be780000ce78000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -393,7 +393,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000ae780000b0780000b2780000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -524,10 +524,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 258}
-      m_SelectedIDs: e282ffff8c010100f682ffffb281ffffa082ffff1282ffff3e81ffffd481ffffca81ffff0681fffffc80ffffec80ffffdc80ffffcc80ffffbc80ffffac80ffff9c80ffff8480ffff6c80ffff5480ffff4a80ffff4080ffff3680ffff0480ffff1880ffff5881ffffb082ffff7481ffffa2010100e87fffffe07fffff72010100e6000100
-      m_LastClickedID: 65766
-      m_ExpandedIDs: c832feff0633feff6c36feff8661feff5080feff82b4feff1016ffffce16ffff1439ffff1c80ffff0881ffff7681ffff9281ffffd681ffff9282ffff0a83ffff4285ffffc6000100180101002e010100620101007a010100d00101000a0201000e020100
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: a0760000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 2afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -586,8 +586,8 @@ MonoBehaviour:
       collapsed: 0
       displayed: 1
       snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: -101, y: -26}
-      snapCorner: 3
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
       id: Tool Settings
       index: 0
       layout: 1
@@ -778,9 +778,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.2577874, y: 5.024715, z: -0.91613865}
+    m_Target: {x: -5.2195606, y: -0.8324273, z: 2.6755238}
     speed: 2
-    m_Value: {x: -0.2577874, y: 5.024715, z: -0.91613865}
+    m_Value: {x: -5.2195606, y: -0.8324273, z: 2.6755238}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -827,13 +827,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.47673747, y: -0.06414378, z: 0.034580693, w: -0.87614226}
+    m_Target: {x: -0.18503912, y: 0.4838931, z: -0.10589803, w: -0.8489945}
     speed: 2
-    m_Value: {x: -0.47805145, y: -0.06277189, z: 0.03395616, w: -0.87542766}
+    m_Value: {x: -0.18516089, y: 0.48252302, z: -0.10559933, w: -0.8495503}
   m_Size:
-    m_Target: 1.157197
+    m_Target: 3.639654
     speed: 2
-    m_Value: 1.2117246
+    m_Value: 3.639654
   m_Ortho:
     m_Target: 0
     speed: 2
